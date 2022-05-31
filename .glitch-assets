@@ -15,3 +15,7 @@
 {"uuid":"yEDZsSX7I7P2NlF1","deleted":true}
 {"uuid":"VY2dLeOvcf8ffuEw","deleted":true}
 {"uuid":"XPQ2UUJettC9yQ6L","deleted":true}
+{"uuid":"WlqPAPkJzcjf2thL","deleted":true}
+{"name":"idle_front.png","date":"2022-05-31T03:52:04.341Z","url":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/idle_front.png","type":"image/png","size":1223,"imageWidth":32,"imageHeight":64,"thumbnail":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/idle_front.png","thumbnailWidth":32,"thumbnailHeight":64,"uuid":"uJ1I9uHiklUCM0iJ"}
+{"name":"walk-left_front.png","date":"2022-05-31T03:52:04.341Z","url":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/walk-left_front.png","type":"image/png","size":1241,"imageWidth":32,"imageHeight":64,"thumbnail":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/walk-left_front.png","thumbnailWidth":32,"thumbnailHeight":64,"uuid":"1r3Zst9A1hosUuNx"}
+{"name":"walk-right_front.png","date":"2022-05-31T03:52:04.341Z","url":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/walk-right_front.png","type":"image/png","size":1243,"imageWidth":32,"imageHeight":64,"thumbnail":"https://cdn.glitch.global/54563578-2a7c-4ea8-9f6d-a51c33229b42/walk-right_front.png","thumbnailWidth":32,"thumbnailHeight":64,"uuid":"c0lX7igjB2whX4RK"}
